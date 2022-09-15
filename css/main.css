@@ -2048,7 +2048,7 @@ html.dark body footer a:hover {
     .showcase section,
     footer,
     header .block {
-        min-width: 80% !important
+        min-width: 100% !important
     }
     .showcase section .studies .case-study#workflows span.img::before,
     .showcase section h1 br,
@@ -2064,7 +2064,7 @@ html.dark body footer a:hover {
     .text section,
     footer,
     header .block {
-        max-width: 80% !important
+        max-width: 100% !important
     }
 
     .showcase section {
